@@ -4,9 +4,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
- <p align="center" >🌱 I’m currently learning **DevOps**<p>
+ <p align="center" >🌱 I’m currently learning "DevOps" <p>
 
-<p align = "center" >📫 How to reach me **gaurav.shukla.gs48@gmail.com** <p>
+<p align = "center" >📫 How to reach me gaurav.shukla.gs48@gmail.com <p>
+ <p align = "center" >📕 Latest blog posts https://hashnode.com/withgauravv <p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
